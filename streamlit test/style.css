@@ -1,0 +1,19 @@
+/* img{
+    align-items: center;
+    margin-left: 16rem;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px; 
+
+}*/
+ h2{
+    text-align: center;
+
+}
+div.row-widget.stButton {
+    text-align: center;
+    align-items: center;
+}
+video{
+    height: 300px;
+}
